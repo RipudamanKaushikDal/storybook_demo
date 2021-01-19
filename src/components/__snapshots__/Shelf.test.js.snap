@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Example/Card Shows 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "backgroundImage": "url(https://i.pinimg.com/originals/31/5d/d4/315dd46f45fe609566238e394ebf1726.jpg)",
+    }
+  }
+>
+  <h1>
+    DareDevil
+  </h1>
+</div>
+`;
+
+exports[`Storyshots Example/Row Movie Row 1`] = `
+<div
+  className="card_shelf"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "backgroundImage": "url(https://i.pinimg.com/originals/31/5d/d4/315dd46f45fe609566238e394ebf1726.jpg)",
+      }
+    }
+  >
+    <h1>
+      DareDevil
+    </h1>
+  </div>
+  <div
+    className="card"
+    style={
+      Object {
+        "backgroundImage": "url(https://cnet4.cbsistatic.com/img/Bi_fHzNUnyVVCxsv3Jcf5OHnE2A=/470x836/2017/09/12/f5bba373-d99e-4ffe-83e9-8bd8a76f280a/the-punisher-netflix-13.jpg)",
+      }
+    }
+  >
+    <h1>
+      The Punisher
+    </h1>
+  </div>
+  <div
+    className="card"
+    style={
+      Object {
+        "backgroundImage": "url(https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg)",
+      }
+    }
+  >
+    <h1>
+      Westworld
+    </h1>
+  </div>
+</div>
+`;

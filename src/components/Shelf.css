@@ -1,0 +1,9 @@
+.card_shelf{
+    display:flex;
+    flex-direction: row;
+    width:100vw;
+    height: 100%;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}

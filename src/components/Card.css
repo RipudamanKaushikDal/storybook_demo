@@ -1,0 +1,31 @@
+.card{
+    width:150px;
+    height: 220px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 1rem;
+    color:white;
+    padding: 1rem;
+    z-index: 1;
+    display: flex;
+    align-items: flex-end;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.3);
+    outline: none;
+    border: none;
+    cursor: pointer;
+    transition:0.4s ease-in-out;
+    margin:1rem;
+}
+
+.card h1{
+    font-size: 22px;
+    z-index: 2;
+}
+
+.card:hover{
+
+    transform: scale(1.07);
+
+    background-position: 100% 100%;
+}
